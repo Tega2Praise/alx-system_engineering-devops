@@ -1,2 +1,2 @@
 #!/bin/bash
-dd iacta
+dd last_line iacta
